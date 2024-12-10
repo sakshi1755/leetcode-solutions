@@ -26,9 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshi1755/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/sakshi1755/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshi1755/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/sakshi1755/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
