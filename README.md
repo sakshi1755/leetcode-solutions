@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -147,10 +149,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1300-critical-connections-in-a-network](https://github.com/sakshi1755/leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1300-critical-connections-in-a-network](https://github.com/sakshi1755/leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
