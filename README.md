@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Enumeration
 |  |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakshi1755/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Merge Sort
 |  |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sakshi1755/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/sakshi1755/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/sakshi1755/leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
+| [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -198,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
