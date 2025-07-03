@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sakshi1755/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Depth-First Search
 |  |
