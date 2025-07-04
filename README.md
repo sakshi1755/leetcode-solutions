@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0322-coin-change) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/sakshi1755/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sakshi1755/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
