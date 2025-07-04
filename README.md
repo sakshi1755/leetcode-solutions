@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/sakshi1755/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
