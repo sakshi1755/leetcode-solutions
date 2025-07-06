@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/sakshi1755/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/sakshi1755/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
