@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sakshi1755/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshi1755/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sakshi1755/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
