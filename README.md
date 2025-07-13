@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sakshi1755/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
