@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sakshi1755/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -431,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sakshi1755/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
