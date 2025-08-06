@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/sakshi1755/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sakshi1755/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakshi1755/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sakshi1755/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakshi1755/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sakshi1755/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -493,5 +497,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
