@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sakshi1755/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
