@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sakshi1755/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sakshi1755/leetcode-solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0494-target-sum) |
 ## Dynamic Programming
