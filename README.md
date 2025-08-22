@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/sakshi1755/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/sakshi1755/leetcode-solutions/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/sakshi1755/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sakshi1755/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sakshi1755/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/sakshi1755/leetcode-solutions/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
