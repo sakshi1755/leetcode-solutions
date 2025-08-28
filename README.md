@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/sakshi1755/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/sakshi1755/leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/sakshi1755/leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sakshi1755/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/sakshi1755/leetcode-solutions/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Depth-First Search
