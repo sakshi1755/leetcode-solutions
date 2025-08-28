@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2245-destroying-asteroids](https://github.com/sakshi1755/leetcode-solutions/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2245-destroying-asteroids](https://github.com/sakshi1755/leetcode-solutions/tree/master/2245-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2245-destroying-asteroids](https://github.com/sakshi1755/leetcode-solutions/tree/master/2245-destroying-asteroids) |
 ## Prefix Sum
 |  |
 | ------- |
