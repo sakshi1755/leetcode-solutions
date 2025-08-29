@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sakshi1755/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/sakshi1755/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Merge Sort
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -349,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/sakshi1755/leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
