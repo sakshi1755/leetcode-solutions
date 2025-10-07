@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/sakshi1755/leetcode-solutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sakshi1755/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/sakshi1755/leetcode-solutions/tree/master/0792-binary-search) |
