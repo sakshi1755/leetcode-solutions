@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/sakshi1755/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sakshi1755/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sakshi1755/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/sakshi1755/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/sakshi1755/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/sakshi1755/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -727,4 +729,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
