@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/sakshi1755/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/sakshi1755/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/sakshi1755/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sakshi1755/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0322-coin-change) |
@@ -564,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sakshi1755/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sakshi1755/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -605,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sakshi1755/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sakshi1755/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/sakshi1755/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
