@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/sakshi1755/leetcode-solutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakshi1755/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -793,4 +797,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sakshi1755/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
