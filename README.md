@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sakshi1755/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshi1755/leetcode-solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1428-jump-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/sakshi1755/leetcode-solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sakshi1755/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshi1755/leetcode-solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1428-jump-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakshi1755/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sakshi1755/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/sakshi1755/leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
+| [1428-jump-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakshi1755/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
