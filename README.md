@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/sakshi1755/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
