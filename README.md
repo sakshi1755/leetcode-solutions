@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/sakshi1755/leetcode-solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2211-k-radius-subarray-averages](https://github.com/sakshi1755/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2245-destroying-asteroids](https://github.com/sakshi1755/leetcode-solutions/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/sakshi1755/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 ## Divide and Conquer
 |  |
@@ -760,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1119-robot-bounded-in-circle](https://github.com/sakshi1755/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
