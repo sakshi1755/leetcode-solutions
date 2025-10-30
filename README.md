@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sakshi1755/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sakshi1755/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sakshi1755/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sakshi1755/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sakshi1755/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sakshi1755/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sakshi1755/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sakshi1755/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -846,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sakshi1755/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sakshi1755/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Quickselect
 |  |
 | ------- |
