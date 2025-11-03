@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sakshi1755/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [1542-consecutive-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakshi1755/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sakshi1755/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/sakshi1755/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sakshi1755/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
@@ -505,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/sakshi1755/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sakshi1755/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/sakshi1755/leetcode-solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
