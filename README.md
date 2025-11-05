@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/sakshi1755/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/sakshi1755/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/sakshi1755/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sakshi1755/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sakshi1755/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/sakshi1755/leetcode-solutions/tree/master/0399-evaluate-division) |
@@ -725,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sakshi1755/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/sakshi1755/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -907,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sakshi1755/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -936,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sakshi1755/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
