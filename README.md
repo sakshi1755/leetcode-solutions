@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/sakshi1755/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2058-concatenation-of-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2211-k-radius-subarray-averages](https://github.com/sakshi1755/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -849,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1119-robot-bounded-in-circle](https://github.com/sakshi1755/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [2058-concatenation-of-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
