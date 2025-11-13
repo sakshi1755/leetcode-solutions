@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sakshi1755/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1127-last-stone-weight](https://github.com/sakshi1755/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sakshi1755/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/sakshi1755/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/sakshi1755/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [1127-last-stone-weight](https://github.com/sakshi1755/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1612-avoid-flood-in-the-city](https://github.com/sakshi1755/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
