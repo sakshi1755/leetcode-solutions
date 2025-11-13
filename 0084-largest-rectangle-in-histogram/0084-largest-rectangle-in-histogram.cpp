@@ -1,48 +1,35 @@
 class Solution {
 public:
-    vector<int> prevsmallelement(vector<int>& heights) {
-        stack<int> s;
-        int size = heights.size();
-        vector<int> ans(size, -1); // Initialize to -1 for no previous smaller element
-
-        for (int i = 0; i < size; i++) {
-            while (!s.empty() && heights[s.top()] >= heights[i]) {
-                s.pop();
-            }
-            ans[i] = (s.empty() ? -1 : s.top()); // Use index to find previous smaller element
-            s.push(i); // Push the index
-        }
-        return ans;
-    }
-
-    vector<int> nextsmallelement(vector<int>& heights) {
-        stack<int> s;
-        int size = heights.size();
-        vector<int> ans(size, size); // Initialize to size for no next smaller element
-
-        for (int i = size - 1; i >= 0; i--) {
-            while (!s.empty() && heights[s.top()] >= heights[i]) {
-                s.pop();
-            }
-            ans[i] = (s.empty() ? size : s.top()); // Use index to find next smaller element
-            s.push(i); // Push the index
-        }
-        return ans;
-    }
     int largestRectangleArea(vector<int>& heights) {
-        int size=heights.size();
-        int area=0;
-          vector<int> n=prevsmallelement( heights);
-            vector<int> p=nextsmallelement( heights);
-        for(int i=0;i<size;i++){
-            int h=heights[i];
-          
-            int w=p[i]-n[i]-1;
-            int newarea=h*w;
-            area=max(area,newarea);
+        int n=heights.size();
+        vector<int>left(n,-1);
+        vector<int>right(n,n);
+        stack<pair<int,int>>st;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && st.top().first>=heights[i]){
+                st.pop();
+
+            }
+            if(!st.empty())left[i]=st.top().second;
+            st.push({heights[i],i});
+        }
+           stack<pair<int,int>>st2;
+        for(int i=n-1;i>=0;i--){
+            while(!st2.empty() && st2.top().first>=heights[i]){
+                st2.pop();
+
+            }
+            if(!st2.empty())right[i]=st2.top().second;
+            st2.push({heights[i],i});
+        }
+        int maxiarea=0;
+        for(int i=0;i<n;i++){
+            int temparea=(right[i]-left[i]-1)*heights[i];
+            maxiarea=max(temparea,maxiarea);
 
         }
-        return area;
+        return maxiarea;
+        
 
         
     }
