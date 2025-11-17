@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/sakshi1755/leetcode-solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sakshi1755/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sakshi1755/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sakshi1755/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshi1755/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1580-shuffle-the-array) |
