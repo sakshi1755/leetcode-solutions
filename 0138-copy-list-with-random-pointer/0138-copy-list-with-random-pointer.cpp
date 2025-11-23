@@ -16,32 +16,35 @@ public:
 
 class Solution {
 public:
+    using n=Node*;
     Node* copyRandomList(Node* head) {
-        if(head==nullptr)return head;
-        Node* newhead=new Node(head->val);
-        map<Node *,Node *> forrandom;
-       
-        Node*  nc=newhead;
-        Node* c=head;
-        forrandom[c]=nc;
-        c=c->next;
-        while(c!=nullptr){
-            nc->next= new Node(c->val);
-            nc=nc->next;
-            forrandom[c]=nc;
-            c=c->next;
+        if(head==nullptr)return nullptr;
+        map<n,n>self;
+        map<n,n>random;
+        n head2=new Node(head->val);
+        self[head]=head2;
+        random[head]=head->random;
+        n curr1=head;
+        n curr2=head2;
+        while(curr1->next!=nullptr){
+            curr1=curr1->next;
+            curr2->next=new Node(curr1->val);
+            curr2=curr2->next;
+            self[curr1]=curr2;
+            random[curr1]=curr1->random;
 
 
         }
-        c=head;
-        nc=newhead;
-        while(c!=nullptr && nc!=nullptr){
-         Node* temp=c->random;
-         nc->random=forrandom[temp];
-         nc=nc->next;
-         c=c->next;
+        curr1=head;
+        curr2=head2;
+        while(curr1!=nullptr){
+            curr2->random=self[random[curr1]];
+            curr1=curr1->next;
+            curr2=curr2->next;
         }
-     return newhead;    
+
+
+
+    return head2;
     }
-   
 };
