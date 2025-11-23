@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sakshi1755/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1732-find-the-highest-altitude](https://github.com/sakshi1755/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/sakshi1755/leetcode-solutions/tree/master/1829-maximum-units-on-a-truck) |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sakshi1755/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/sakshi1755/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/sakshi1755/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
