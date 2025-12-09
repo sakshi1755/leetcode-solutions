@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sakshi1755/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sakshi1755/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sakshi1755/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
