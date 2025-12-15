@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/sakshi1755/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/sakshi1755/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/sakshi1755/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/0647-palindromic-substrings) |
