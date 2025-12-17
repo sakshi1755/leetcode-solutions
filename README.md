@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/2050-count-good-numbers) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sakshi1755/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sakshi1755/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshi1755/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/sakshi1755/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sakshi1755/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/sakshi1755/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
