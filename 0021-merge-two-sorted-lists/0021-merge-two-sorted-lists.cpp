@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-   ListNode* solve(ListNode* first, ListNode* second){
+ ListNode* solve(ListNode* first, ListNode* second){
         ListNode* prev=first;
         ListNode* curr=prev->next;
         ListNode* temp=second;
