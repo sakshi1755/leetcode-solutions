@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/sakshi1755/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sakshi1755/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -719,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -956,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1508-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1072,12 +1075,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1508-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1508-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1118,4 +1123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
