@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [1542-consecutive-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1542-consecutive-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakshi1755/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sakshi1755/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -940,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1119-robot-bounded-in-circle](https://github.com/sakshi1755/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
