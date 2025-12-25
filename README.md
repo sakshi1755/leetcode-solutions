@@ -1140,4 +1140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sakshi1755/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
