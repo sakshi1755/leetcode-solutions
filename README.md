@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sakshi1755/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/sakshi1755/leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sakshi1755/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0812-rotate-string) |
 | [0831-masking-personal-information](https://github.com/sakshi1755/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/sakshi1755/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -670,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sakshi1755/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -830,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/sakshi1755/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
