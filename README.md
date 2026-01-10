@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sakshi1755/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sakshi1755/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -925,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshi1755/leetcode-solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
