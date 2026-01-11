@@ -543,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sakshi1755/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakshi1755/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -811,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sakshi1755/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakshi1755/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -901,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sakshi1755/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakshi1755/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -921,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sakshi1755/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakshi1755/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Biconnected Component
 |  |
 | ------- |
