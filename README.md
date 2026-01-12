@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/sakshi1755/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/sakshi1755/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/sakshi1755/leetcode-solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/sakshi1755/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -814,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakshi1755/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/sakshi1755/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sakshi1755/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sakshi1755/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
@@ -952,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshi1755/leetcode-solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/sakshi1755/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 ## Topological Sort
