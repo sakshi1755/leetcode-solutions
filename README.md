@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sakshi1755/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 ## Divide and Conquer
 |  |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sakshi1755/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
@@ -988,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/sakshi1755/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sakshi1755/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1223,4 +1226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/sakshi1755/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0601-human-traffic-of-stadium](https://github.com/sakshi1755/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0620-not-boring-movies) |
+## Graph Theory
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sakshi1755/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
