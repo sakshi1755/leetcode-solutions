@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 | [0932-beautiful-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [0989-largest-component-size-by-common-factor](https://github.com/sakshi1755/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sakshi1755/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 | [0967-minimum-falling-path-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -885,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -1024,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/sakshi1755/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1102,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0292-nim-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
@@ -1282,6 +1287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sakshi1755/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
