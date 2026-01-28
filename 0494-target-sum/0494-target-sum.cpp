@@ -5,34 +5,30 @@
  */
 
 // @lc code=start
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
+   void solve(int i, int n, vector<int>& nums, int target, int currsum, int &ans){
+       if(i==n){
+           if(currsum==target){
+               ans++;
+           }
+           return;
+       }
+       solve(i+1,n,nums,target,currsum+nums[i],ans);
+       solve(i+1,n,nums,target,currsum-nums[i],ans);
+   }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size();
-        vector<vector<int>> dp(n , vector<int>(4001, 0));
-        for(int i=0;i<n;i++){
-            for(int j=-2000;j<=2000;j++){
-                if( i==0 && j==nums[i] ){
-                    dp[i][j+2000]++;
-
-                }
-                  if( i==0 &&  j==-nums[i]){
-                    dp[i][j+2000]++;
-
-                }
-                else if(i>0){
-                   if(j - nums[i] + 2000 >= 0 && j - nums[i] + 2000 <= 4000)
-                        dp[i][j+2000] += dp[i-1][j-nums[i]+2000];
-                    if(j + nums[i] + 2000 >= 0 && j + nums[i] + 2000 <= 4000)
-                        dp[i][j+2000] += dp[i-1][j+nums[i]+2000];
-                }
-
-                
-        }
+        int n=nums.size();
+        int currsum=0;
+        int ans=0;
+        //int currsum=0;
+         solve(0,n,nums,target,currsum,ans);
+        return ans;
 
     }
-     return dp[n-1][target+2000];   
-    }
+
 };
 // @lc code=end
 
