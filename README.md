@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [0989-largest-component-size-by-common-factor](https://github.com/sakshi1755/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/sakshi1755/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/sakshi1755/leetcode-solutions/tree/master/0876-hand-of-straights) |
+| [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sakshi1755/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sakshi1755/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -1098,6 +1101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
