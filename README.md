@@ -1298,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sakshi1755/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
