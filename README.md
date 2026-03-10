@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/sakshi1755/leetcode-solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/sakshi1755/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sakshi1755/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sakshi1755/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshi1755/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sakshi1755/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
