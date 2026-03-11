@@ -674,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakshi1755/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sakshi1755/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sakshi1755/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Greedy
 |  |
 | ------- |
@@ -713,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2245-destroying-asteroids](https://github.com/sakshi1755/leetcode-solutions/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sakshi1755/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1065,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/sakshi1755/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sakshi1755/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
