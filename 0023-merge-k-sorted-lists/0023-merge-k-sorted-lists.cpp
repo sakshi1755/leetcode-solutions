@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=23 lang=cpp
+ *
+ * [23] Merge k Sorted Lists
+ */
+
+// @lc code=start
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -8,39 +15,44 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
-    struct compare{
-        bool operator()(ListNode * a, ListNode* b){
-            return a->val > b->val;
+    using ln=ListNode*;
+    ln mergesort(int i,int j,vector<ln>&lists){
+        if(i>=lists.size() || j>=lists.size()) return NULL;
+        if(i==j)return lists[i];
+        ln rl=mergesort(i,(i+j)/2,lists);
+        ln rr=mergesort((i+j)/2+1,j,lists);
+        ln dummy=new ListNode(-1);
+        ln temp=dummy;
+        while(rl && rr){
+            if(rl->val<rr->val){
+                temp->next=rl;
+                rl=rl->next;
+            }
+            else{
+                temp->next=rr;
+                rr=rr->next;
+            }
+            temp=temp->next;
         }
-    };
+        if(rl){
+            temp->next=rl;
+        }
+        if(rr){
+            temp->next=rr;
+        }
+        return dummy->next;
+    }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-      int k=lists.size();
-      priority_queue<ListNode*, vector<ListNode*>, compare> q;
-      for(int i=0 ; i<k ;i++){
-             if (lists[i] != nullptr) q.push(lists[i]);
-        }
-      ListNode* head=NULL;
-      ListNode* tail=NULL;
-      while(!q.empty()){
-        ListNode* top= q.top();
-          q.pop();
-        if(head==nullptr){
-            head=top;
-            tail=top;
-        }
-        else{
-            tail->next=top;
-            tail=tail->next;
-        }
-        if(top->next!=nullptr){
-            q.push(top->next);
-        }
-      
-
-      } 
-      return head;
-
+        int k=lists.size();
+        if(k==0) return NULL;
+        if(k==1) return lists[0];
+       return mergesort(0,k-1,lists);
+        
     }
 };
+// @lc code=end
+
