@@ -978,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/sakshi1755/leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1428-jump-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakshi1755/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1189,6 +1190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1221,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
