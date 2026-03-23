@@ -258,12 +258,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Number Theory
 |  |
 | ------- |
