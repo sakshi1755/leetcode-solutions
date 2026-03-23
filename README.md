@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Enumeration
 |  |
 | ------- |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sakshi1755/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## String
 |  |
 | ------- |
@@ -1357,6 +1359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1998-gcd-sort-of-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1998-gcd-sort-of-an-array) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Strongly Connected Component
 |  |
 | ------- |
