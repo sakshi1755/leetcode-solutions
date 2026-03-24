@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Enumeration
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sakshi1755/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## String
 |  |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Sorting
 |  |
 | ------- |
@@ -1122,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Simulation
 |  |
 | ------- |
