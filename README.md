@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3676-smallest-number-with-all-set-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sakshi1755/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sakshi1755/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Greedy
 |  |
 | ------- |
