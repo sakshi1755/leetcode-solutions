@@ -8,7 +8,7 @@ public:
     long long solve(int ind, int prev, int sum, int tight, int started, int inc, int dec) {
         if (ind == ls.size()) {
             if (!started)
-                return 1;
+                return 0;
             bool good = inc || dec;
             bool sumgood = gs[sum];
             return good || sumgood;
@@ -49,15 +49,18 @@ public:
         return solve(0, -1, 0, 1, 0, 1, 1);
     }
 
-bool isgood(int x){
-    string t = to_string(x);
-    bool inc = true, dec = true;
-    for(int i = 1; i < t.size(); i++){
-        if(t[i] <= t[i-1]) inc = false;
-        if(t[i] >= t[i-1]) dec = false;
+    bool isgood(int x) {
+        string t = to_string(x);
+        bool inc = true;
+        bool dec = true;
+
+        for (int i = 0; i < (int)t.size() - 1; i++) {
+            if (t[i] >= t[i + 1]) inc = 0;
+            if (t[i] <= t[i + 1]) dec = 0;
+        }
+
+        return inc || dec;
     }
-    return inc || dec;
-}
 
     long long countFancy(long long l, long long r) {
         for (int i = 0; i < 150; i++) {
