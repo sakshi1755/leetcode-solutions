@@ -485,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sakshi1755/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -839,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Binary Search
 |  |
 | ------- |
