@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sakshi1755/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshi1755/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/sakshi1755/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshi1755/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sakshi1755/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sakshi1755/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -1424,4 +1427,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
