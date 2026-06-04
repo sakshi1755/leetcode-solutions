@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/sakshi1755/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/sakshi1755/leetcode-solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sakshi1755/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0812-largest-triangle-area](https://github.com/sakshi1755/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0815-bus-routes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/sakshi1755/leetcode-solutions/tree/master/0854-making-a-large-island) |
@@ -1434,5 +1436,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/sakshi1755/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
