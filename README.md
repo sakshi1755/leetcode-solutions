@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/sakshi1755/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 | [0932-beautiful-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [0989-largest-component-size-by-common-factor](https://github.com/sakshi1755/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/sakshi1755/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/sakshi1755/leetcode-solutions/tree/master/0876-hand-of-straights) |
 | [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0890-lemonade-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sakshi1755/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -1093,6 +1095,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/sakshi1755/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/sakshi1755/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sakshi1755/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0967-minimum-falling-path-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -1431,4 +1434,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
