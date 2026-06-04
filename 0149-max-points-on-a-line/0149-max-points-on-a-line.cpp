@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxPoints(vector<vector<int>>& points) {
         map<pair<int,int>,int>slope;
-        int ans=1;
+        int ans=0;
         int n=points.size();
 
         for(int i=0;i<n;i++){
