@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshi1755/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/sakshi1755/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/sakshi1755/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0292-nim-game) |
@@ -1436,6 +1437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/sakshi1755/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/sakshi1755/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
