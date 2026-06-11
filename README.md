@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sakshi1755/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-count-subarrays-with-median-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [2573-find-the-string-with-lcp](https://github.com/sakshi1755/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -1143,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/sakshi1755/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sakshi1755/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sakshi1755/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
