@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sakshi1755/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sakshi1755/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/sakshi1755/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sakshi1755/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sakshi1755/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sakshi1755/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/sakshi1755/leetcode-solutions/tree/master/0044-wildcard-matching) |
@@ -1212,6 +1214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sakshi1755/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sakshi1755/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sakshi1755/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
