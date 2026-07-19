@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/sakshi1755/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1119-robot-bounded-in-circle](https://github.com/sakshi1755/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sakshi1755/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/sakshi1755/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshi1755/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sakshi1755/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/sakshi1755/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshi1755/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakshi1755/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -766,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/sakshi1755/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshi1755/leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sakshi1755/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/sakshi1755/leetcode-solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
