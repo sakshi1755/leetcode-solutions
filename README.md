@@ -1419,6 +1419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/sakshi1755/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sakshi1755/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/sakshi1755/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sakshi1755/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0601-human-traffic-of-stadium](https://github.com/sakshi1755/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0620-not-boring-movies) |
