@@ -1424,6 +1424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/sakshi1755/leetcode-solutions/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/sakshi1755/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1158-market-analysis-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/1158-market-analysis-i) |
 ## Graph Theory
 |  |
 | ------- |
