@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/sakshi1755/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/sakshi1755/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sakshi1755/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sakshi1755/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/sakshi1755/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sakshi1755/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshi1755/leetcode-solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1428-jump-game-iii) |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/sakshi1755/leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sakshi1755/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -1236,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/sakshi1755/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/sakshi1755/leetcode-solutions/tree/master/0913-cat-and-mouse) |
+| [1406-stone-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
@@ -1486,8 +1490,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sakshi1755/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sakshi1755/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
