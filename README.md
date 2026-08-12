@@ -730,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakshi1755/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
