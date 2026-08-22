@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sakshi1755/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sakshi1755/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3115-maximum-prime-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2751-robot-collisions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sakshi1755/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -944,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sakshi1755/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1274,6 +1277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2211-k-radius-subarray-averages](https://github.com/sakshi1755/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sakshi1755/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
