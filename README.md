@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3115-maximum-prime-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3366-minimum-array-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/3366-minimum-array-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sakshi1755/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sakshi1755/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -765,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/sakshi1755/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sakshi1755/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3366-minimum-array-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/3366-minimum-array-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Greedy
