@@ -1098,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sakshi1755/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sakshi1755/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sakshi1755/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/sakshi1755/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sakshi1755/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sakshi1755/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -1256,6 +1257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/sakshi1755/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/sakshi1755/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0812-rotate-string) |
@@ -1341,6 +1343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1375,6 +1378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sakshi1755/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1397,6 +1401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sakshi1755/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1508-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
