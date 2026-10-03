@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sakshi1755/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sakshi1755/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sakshi1755/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshi1755/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0204-count-primes) |
@@ -716,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sakshi1755/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sakshi1755/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/sakshi1755/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sakshi1755/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sakshi1755/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -1328,6 +1330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshi1755/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sakshi1755/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshi1755/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -1355,6 +1358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sakshi1755/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/sakshi1755/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -1363,6 +1367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshi1755/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sakshi1755/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshi1755/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
