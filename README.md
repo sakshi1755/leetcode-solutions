@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-count-subarrays-with-median-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [2573-find-the-string-with-lcp](https://github.com/sakshi1755/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2488-count-subarrays-with-median-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/sakshi1755/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/sakshi1755/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/sakshi1755/leetcode-solutions/tree/master/1824-maximum-number-of-eaten-apples) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sakshi1755/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -896,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sakshi1755/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1252,6 +1256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sakshi1755/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
