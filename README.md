@@ -1506,6 +1506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0601-human-traffic-of-stadium](https://github.com/sakshi1755/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/sakshi1755/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/1158-market-analysis-i) |
 | [1683-invalid-tweets](https://github.com/sakshi1755/leetcode-solutions/tree/master/1683-invalid-tweets) |
