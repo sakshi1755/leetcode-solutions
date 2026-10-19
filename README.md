@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/sakshi1755/leetcode-solutions/tree/master/3295-report-spam-message) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/sakshi1755/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sakshi1755/leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/sakshi1755/leetcode-solutions/tree/master/3295-report-spam-message) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -1266,6 +1268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
