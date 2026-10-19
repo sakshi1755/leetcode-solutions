@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3115-maximum-prime-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -944,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/sakshi1755/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2488-count-subarrays-with-median-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sakshi1755/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
