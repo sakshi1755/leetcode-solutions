@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -934,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sakshi1755/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
