@@ -1,33 +1,19 @@
-/*
- * @lc app=leetcode id=1 lang=cpp
- *
- * [1] Two Sum
- */
-
-// @lc code=start
-#include <bits/stdc++.h>
-using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> m;
-        vector<int> ans;
-        for (int i = 0; i < nums.size(); i++) {
-             int com=target-nums[i];
-            if (m.find(com) != m.end()) {
-             ans={m[com],i};
+        int n=nums.size();
+        map<int,int>seen;
 
+        for(int i=0;i<n;i++){
+            int need=target-nums[i];
+            if(seen.find(need)!=seen.end()){
+                return {i,seen[need]};
             }
-            m[nums[i]] = i; // Store the index of the current number
-
-
-
-
+            seen[nums[i]]=i;
+        
+            
         }
-        return ans;
-
+        return {-1,-1};
         
     }
 };
-// @lc code=end
-
