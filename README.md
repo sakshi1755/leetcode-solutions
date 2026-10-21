@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-k-concatenation-maximum-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakshi1755/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sakshi1755/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sakshi1755/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sakshi1755/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
@@ -688,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/sakshi1755/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/sakshi1755/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sakshi1755/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-reduce-array-size-to-the-half](https://github.com/sakshi1755/leetcode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1612-avoid-flood-in-the-city](https://github.com/sakshi1755/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -924,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakshi1755/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1340-jump-game-v](https://github.com/sakshi1755/leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -1019,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sakshi1755/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sakshi1755/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sakshi1755/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/sakshi1755/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1094,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/sakshi1755/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sakshi1755/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1023-camelcase-matching](https://github.com/sakshi1755/leetcode-solutions/tree/master/1023-camelcase-matching) |
+| [1268-search-suggestions-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
