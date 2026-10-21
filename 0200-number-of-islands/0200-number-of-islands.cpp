@@ -1,42 +1,54 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    void doconnections(map<pair<int,int>,bool>& isconnected, vector<vector<char>>& grid, stack<pair<int,int>>& st, int n, int m) {
-        while(!st.empty()) {
-            vector<int> dir = {1, -1};
-            int row = st.top().first;
-            int col = st.top().second;
-            st.pop();
-            for(int i = 0; i < 2; i++) {
-                if(row + dir[i] >= 0 && row + dir[i] < m && grid[row + dir[i]][col] == '1' && !isconnected[{row + dir[i], col}]) {
-                    isconnected[{row + dir[i], col}] = true;
-                    st.push({row + dir[i], col});
-                }
-                if(col + dir[i] >= 0 && col + dir[i] < n && grid[row][col + dir[i]] == '1' && !isconnected[{row, col + dir[i]}]) {
-                    isconnected[{row, col + dir[i]}] = true;
-                    st.push({row, col + dir[i]});
-                }
-            }
-        }
+    using ll = long long;
+    vector<ll> parent;
+    vector<ll> rank;
+    long long findparent(int i) {
+        if (parent[i] != i)
+            return parent[i] = findparent(parent[i]);
+        else
+            return i;
+    }
+    void unite(ll i, ll j) {
+        ll pi = findparent(i);
+        ll pj = findparent(j);
+        if (rank[pj] > rank[pi])
+            swap(pi, pj);
+        parent[pj] = pi;
+        if (rank[pi] == rank[pj])
+            rank[pi]++;
+        
     }
 
     int numIslands(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        map<pair<int,int>,bool> isconnected;
-        stack<pair<int,int>> st;
-        long long ans = 0;
+        int m=grid.size();
+        int n=grid[0].size();
+        int t=m*n;
+        parent.resize(t);
+        rank.resize(t,0);
+        for(int i=0;i<t;i++){
+            parent[i]=i;
+        }
 
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                if(grid[i][j] == '1' && !isconnected[{i, j}]) {
-                    isconnected[{i, j}] = true;
-                    st.push({i, j});
-                    ans++;
-                    doconnections(isconnected, grid, st, n, m);
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if(grid[i][j]=='0')continue;
+                int code = i * n + j;
+                if (j + 1 < n && grid[i][j + 1] == '1') {
+                    int nc = i * n + j + 1;
+                    unite(nc, code);
                 }
+                if (i + 1 < m && grid[i + 1][j] == '1') {
+                    int nc = (i + 1) * n + j;
+                    unite(nc, code);
+                }
+            }
+        }
+        ll ans = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                int code = i * n + j;
+                if(grid[i][j]=='1' && findparent(code)==code)ans++;
             }
         }
         return ans;
