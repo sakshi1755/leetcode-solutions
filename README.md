@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sakshi1755/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sakshi1755/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sakshi1755/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -1247,6 +1248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sakshi1755/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sakshi1755/leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sakshi1755/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -1331,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/sakshi1755/leetcode-solutions/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/sakshi1755/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/sakshi1755/leetcode-solutions/tree/master/0735-asteroid-collision) |
