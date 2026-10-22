@@ -1,21 +1,25 @@
 class Solution {
 public:
-bool solve(string s, vector<string>& wordDict,int indstart,int indend, vector<vector<int>>&dp,int n){
-    if(indstart>n-1)return true;
-            if (dp[indstart][indend] != -1) return dp[indstart][indend];
-    string temp="";
-    for(int i=indstart;i<=indend;i++){
-      temp+=s[i];
-       if(find(wordDict.begin(),wordDict.end(),temp)!=wordDict.end()){
-        if(solve(s,wordDict,i+1,indend,dp,n))return dp[indstart][indend]=true;
-     }
-    }
-     return dp[indstart][indend] = false;
-    
-    }
     bool wordBreak(string s, vector<string>& wordDict) {
         int n=s.size();
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
-        return solve(s,wordDict,0,n-1,dp,n);
+        set<string>st;
+        int wn=wordDict.size();
+        for(int i=0;i<wn;i++){
+            st.insert(wordDict[i]);
+        }
+        vector<bool>dp(n+1,false);
+        dp[n] = true;
+        for(int i=n-1;i>=0;i--){
+            string temp="";
+            for(int j=i;j<n;j++){
+                temp+=s[j];
+                if(st.count(temp)){
+                    dp[i]=dp[j+1];
+                }
+                if(dp[i])break;
+            }
+        }
+        return dp[0];
+        
     }
 };
