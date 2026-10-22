@@ -1701,4 +1701,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sakshi1755/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sakshi1755/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
