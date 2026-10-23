@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sakshi1755/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1310,6 +1311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sakshi1755/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sakshi1755/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
