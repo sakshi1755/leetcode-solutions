@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2174-next-greater-numerically-balanced-number](https://github.com/sakshi1755/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2409-count-days-spent-together](https://github.com/sakshi1755/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/sakshi1755/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2223-sum-of-scores-of-built-strings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sakshi1755/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2409-count-days-spent-together](https://github.com/sakshi1755/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/sakshi1755/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sakshi1755/leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
