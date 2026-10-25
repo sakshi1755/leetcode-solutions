@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-k-concatenation-maximum-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sakshi1755/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1254-number-of-closed-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/sakshi1755/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/sakshi1755/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -1097,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sakshi1755/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakshi1755/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshi1755/leetcode-solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1428-jump-game-iii) |
@@ -1209,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sakshi1755/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1300-critical-connections-in-a-network](https://github.com/sakshi1755/leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1428-jump-game-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/1428-jump-game-iii) |
@@ -1269,6 +1272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/sakshi1755/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sakshi1755/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sakshi1755/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sakshi1755/leetcode-solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1628,6 +1632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/sakshi1755/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1632-rank-transform-of-a-matrix](https://github.com/sakshi1755/leetcode-solutions/tree/master/1632-rank-transform-of-a-matrix) |
