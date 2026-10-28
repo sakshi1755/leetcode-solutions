@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/sakshi1755/leetcode-solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
@@ -848,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3366-minimum-array-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/3366-minimum-array-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -1286,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/sakshi1755/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1323,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sakshi1755/leetcode-solutions/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
