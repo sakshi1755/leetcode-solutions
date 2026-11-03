@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sakshi1755/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/sakshi1755/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sakshi1755/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sakshi1755/leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
