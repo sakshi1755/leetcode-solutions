@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3115-maximum-prime-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sakshi1755/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sakshi1755/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3366-minimum-array-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/3366-minimum-array-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sakshi1755/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sakshi1755/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3223-minimum-length-of-string-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/sakshi1755/leetcode-solutions/tree/master/3295-report-spam-message) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sakshi1755/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -724,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sakshi1755/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
@@ -852,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sakshi1755/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3366-minimum-array-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/3366-minimum-array-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/sakshi1755/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
@@ -1433,6 +1438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-k-radius-subarray-averages](https://github.com/sakshi1755/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sakshi1755/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-minimum-positive-sum-subarray) |
