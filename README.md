@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sakshi1755/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakshi1755/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sakshi1755/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sakshi1755/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Sorting
 |  |
