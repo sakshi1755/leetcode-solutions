@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3115-maximum-prime-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3295-report-spam-message](https://github.com/sakshi1755/leetcode-solutions/tree/master/3295-report-spam-message) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
