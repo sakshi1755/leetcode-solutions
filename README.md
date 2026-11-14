@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3295-report-spam-message](https://github.com/sakshi1755/leetcode-solutions/tree/master/3295-report-spam-message) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/sakshi1755/leetcode-solutions/tree/master/3366-minimum-array-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sakshi1755/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1027,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-count-subarrays-with-median-k](https://github.com/sakshi1755/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/sakshi1755/leetcode-solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sakshi1755/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3644-minimum-positive-sum-subarray) |
@@ -1450,6 +1452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-k-radius-subarray-averages](https://github.com/sakshi1755/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sakshi1755/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi1755/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sakshi1755/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
