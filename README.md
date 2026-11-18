@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Enumeration
 |  |
 | ------- |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/sakshi1755/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/sakshi1755/leetcode-solutions/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/sakshi1755/leetcode-solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/sakshi1755/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sakshi1755/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Union Find
 |  |
 | ------- |
@@ -930,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sakshi1755/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sakshi1755/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Sorting
 |  |
 | ------- |
@@ -1008,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sakshi1755/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sakshi1755/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1589,6 +1594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sakshi1755/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1598,6 +1604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sakshi1755/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Ordered Set
 |  |
 | ------- |
