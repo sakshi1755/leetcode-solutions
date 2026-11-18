@@ -604,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sakshi1755/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/sakshi1755/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sakshi1755/leetcode-solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sakshi1755/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakshi1755/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/sakshi1755/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/sakshi1755/leetcode-solutions/tree/master/3295-report-spam-message) |
