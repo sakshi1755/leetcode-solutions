@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3115-maximum-prime-difference](https://github.com/sakshi1755/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi1755/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sakshi1755/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sakshi1755/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sakshi1755/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sakshi1755/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1416,6 +1417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2288-count-operations-to-obtain-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sakshi1755/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/sakshi1755/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3360-stone-removal-game](https://github.com/sakshi1755/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3516-design-neighbor-sum-service](https://github.com/sakshi1755/leetcode-solutions/tree/master/3516-design-neighbor-sum-service) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshi1755/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
