@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3873-maximum-points-activated-with-one-addition](https://github.com/sakshi1755/leetcode-solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/sakshi1755/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Enumeration
 |  |
@@ -889,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/sakshi1755/leetcode-solutions/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshi1755/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -945,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sakshi1755/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sakshi1755/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sakshi1755/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sakshi1755/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/sakshi1755/leetcode-solutions/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Sorting
 |  |
